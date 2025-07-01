@@ -9,7 +9,7 @@ It is in a 3D printed enclosure, with an acrylic front panel, light guide, and d
 ![image](https://github.com/user-attachments/assets/e22f3dac-14ef-4d86-b510-89a4428b359d)
 ![image](https://github.com/user-attachments/assets/d2b7d2ff-52cc-40e4-a2f9-9a9b8b12f2ac)
 
-| BOM  |
-| ------------- | 
-| Content Cell  |
-| Content Cell  
+| Material  | Cost | Source | 
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
