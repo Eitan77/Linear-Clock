@@ -11,11 +11,11 @@ It is in a 3D printed enclosure, with an acrylic front panel, light guide, and d
 
 | Material  | Cost | Source | 
 | ------------- | ------------- | ------------- |
-| Custom PCB + Components  | Content Cell  | JCLPCB + Amazon  |
-| Overture Grey PLA  | Content Cell  | Amazon  |
-| Acrylic Sheets  | Content Cell  | Amazon  |
-| Cardboard  | Content Cell  | Amazon  |
-| Tracing Paper | Content Cell  |  Amazon  |
-| Heat Set Inserts  | Content Cell  | Amazon  |
-| Machine Screws  | Content Cell  | Amazon  |
+| Custom PCB + Components  | $50-$60  | JCLPCB + Amazon  |
+| Overture Grey PLA  | $20  | Amazon  |
+| Acrylic Sheets  | $10  | Amazon  |
+| Cardboard  | $5  | Amazon  |
+| Tracing Paper | $5  |  Amazon  |
+| Heat Set Inserts  | $15  | Amazon  |
+| Machine Screws  | $10  | Amazon  |
 
