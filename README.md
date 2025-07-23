@@ -2,16 +2,19 @@ Hello, this is my first major project: The Progress Bar Clock
 It consists of 124 individual LEDs that light up in sequence, marking the progress of your day as time passes, kinda like a video game loading screen, but in real life. 
 Each second, a second LED will light up, and so on until a minute has passed, at which time the seconds bar resets and one of the minute LEDs lights up. Same thing for the hours and so on. 
 I feel like sometimes I let the day slip by me, and so I wanted to create something that can provide me a vivid representation of the time passing, and that serves as a cool decorative piece. 
-
 The clock has 124 WS2812-V5 LEDs for the progress bar segments, 4 buttons to control the settings on the clock, and a USB Type-C connection port, all connected via a custom PCB and controlled by an Arduino Nano. 
 It is in a 3D printed enclosure, with an acrylic front panel, light guide, and diffuser. There is no other wiring besides the PCB, and the power to the PCB is connected to a USB breakout with a switch. 
+There have been many hours of design put into the project trying to get it as efficiently manufacturable as possible, including reducing cost and production time. It will also have a more complex software component, with productivity trackers and possibly a webapp component if I can get parts to do WIFI. 
 
 ![image](https://github.com/user-attachments/assets/e22f3dac-14ef-4d86-b510-89a4428b359d)
 ![image](https://github.com/user-attachments/assets/d2b7d2ff-52cc-40e4-a2f9-9a9b8b12f2ac)
 
+Unfortunately there are a lot of shipping fees with the parts from overseas ):
+
 | Material  | Cost | Source | 
 | ------------- | ------------- | ------------- |
-| Custom PCB + Components  | $50-$60  | JCLPCB + Amazon  |
+| Custom PCB   | $50-$60  | JCLPCB  |
+| Components   | $30  | JCLPCB/Amazon  |
 | Overture Grey PLA  | $20  | Amazon  |
 | Acrylic Sheets  | $10  | Amazon  |
 | Cardboard  | $5  | Amazon  |
