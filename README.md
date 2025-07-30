@@ -21,4 +21,5 @@ Unfortunately there are a lot of shipping fees with the parts from overseas ):
 | Tracing Paper | $5  |  Amazon  |
 | Heat Set Inserts  | $15  | Amazon  |
 | Machine Screws  | $10  | Amazon  |
+Full Price: $155 
 
